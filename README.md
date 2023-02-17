@@ -3,13 +3,18 @@
 
 - Kaggle Dataset :- https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data.
 
-- Use dataset train and test fer-2013 dataset follow 7 Emotions.
+- Use dataset train and test FER-2013 dataset follow 7 Emotions.
 
 - Execute the test.py file to run the Emotion Detection.
-# Install All Library - Follow
-# 1 python 3.10.9 Latest (64 bits)
-# 2 pip install tensorflow
-# 3 install keras
-# 4 pip install open cv - python
-# 5 pip install numpy
+# These steps are followed Install All Library
+# 1 Download python 3.10.9 (64 bit)
+# 2 Download VS Code
+# 3 Python install, VScode Install 
+# 4 File Extract in Window C
+# 5 Open the project in vscode 
+# 6 Copy path in train file
+# 7 pip install tensorflow
+# 8 pip install keras
+# 9 pip install opencv-python
+# 10 pip install numpy
 # Run File test.py command python test.py
